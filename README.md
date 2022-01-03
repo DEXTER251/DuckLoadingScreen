@@ -1,4 +1,4 @@
-# Poop Loading Screen
+# Duck Loading Screen
  A simple logo that changes default logo
 # Install
-Unpack **Poop-Loading-Screen-master** into "Garry's mod\garrysmod\addons"
+Unpack **DuckLoadingScreen-master** into "Garry's mod\garrysmod\addons"
